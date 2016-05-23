@@ -1,4 +1,4 @@
-# Bike Share - Raw Date Info
+# Bike Share - Raw Data Info
 This directory contains the data downloaded from various bike share services
 
 ## capitalbikeshare.csv
