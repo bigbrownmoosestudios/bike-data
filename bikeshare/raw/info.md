@@ -2,10 +2,10 @@
 This directory contains the data downloaded from various bike share services
 
 ## capitalbikeshare.csv
-DC-area info from [Capital Bike Share](http://www.capitalbikeshare.com/system-data)
+DC-area info for [Capital Bike Share](http://www.capitalbikeshare.com/system-data) from 2010-9-1 through 2015-10-1
 
 ### Data
-_Number of Trips_ and _Miles Travelled_ listed by day, municipality, and trip duration
+_Number of Trips_ and _Miles Travelled_ listed by day, municipality, trip duration, and membership type
 
 Contains info for the following locations:
 - Washington, DC
